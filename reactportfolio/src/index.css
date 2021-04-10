@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Zilla+Slab+Highlight&display=swap');
+
+body {
+  background-image: linear-gradient(to right bottom, #00F260,#0575E6);
+  background-attachment: fixed;
+}
+.container {
+  padding-top: 50px;
+}
+.row {
+  height: 90vh;
+}
+
+.app_sidebar {
+  background-color: #fff;
+  height:100%;
+  border-radius: 20px;
+  padding: 25px 15px;
+}
+.app_main-content {
+  background-color: #fff;
+  border-radius: 20px;
+  padding: 25px 15px;
+}
