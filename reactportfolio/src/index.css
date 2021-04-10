@@ -53,6 +53,7 @@ a:hover {
 .sidebar__name {
   font-family: Kaushan Script;
   margin: 20px 0;
+  font-size: 1.7rem;
 }
 .sidebar__name>span {
   color: #00F260;
@@ -77,4 +78,8 @@ a:hover {
   color: #fff;
   margin: 15px 25px 0px;
   cursor: pointer;
+  transition: all 3s linear;
+}
+.sidebar__email:hover{
+  transform: scale(1.2);
 }
