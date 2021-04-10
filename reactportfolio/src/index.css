@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Zilla+Slab+Highlight&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Merriweather:wght@300&display=swap');
+
 
 body {
   background-image: linear-gradient(to right bottom, #00F260,#0575E6);
@@ -16,9 +17,11 @@ body {
   height:100%;
   border-radius: 20px;
   padding: 25px 15px;
+  box-shadow: 0 0 10px black;
 }
 .app_main-content {
   background-color: #fff;
   border-radius: 20px;
   padding: 25px 15px;
+  box-shadow: 0 0 10px black;
 }
