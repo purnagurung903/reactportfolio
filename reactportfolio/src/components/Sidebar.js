@@ -4,7 +4,7 @@ import instagram from "../assets/icons/instagram.svg"
 import github from "../assets/icons/github.svg"
 import pin from "../assets/icons/pin.svg"
 import tie from "../assets/icons/tie.svg"
-import image from "../assets/IMG0226.jpeg"
+import image from "../assets/Myphoto.png"
 
 
 const Sidebar = () => {
@@ -21,12 +21,12 @@ const Sidebar = () => {
 
           </div>
         </a>
-        <figure className="sidebar__social-icons">
-          <a href=" "><img src={facebook} alt="facebook" className="sidebar__icon"/></a>
+        <figure className="sidebar__social-icons my-2">
+          <a href=" "><img src={facebook} alt="facebook" className="sidebar__icon mr-3"/></a>
           <a href=" "><img src={instagram} alt="instagram" className="sidebar__icon"/></a>
 
         </figure>
-        <div className="contact">
+        <div className="sidebar__contact">
           <div className="sidebar__item">
             <a href=" ">
               <img src={github} alt="github"  className="sidebar__icon"/>github

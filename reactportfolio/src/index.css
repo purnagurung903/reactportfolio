@@ -2,7 +2,7 @@
 
 
 body {
-  background-image: linear-gradient(to right bottom, #00F260,#0575E6);
+  background-image: linear-gradient(to right bottom, #00F260, #0575E6);
   background-attachment: fixed;
 }
 a{
@@ -67,4 +67,14 @@ a:hover {
   background-color: #f1f1f1;
   border-radius: 30px;
 }
-
+.sidebar__contact {
+  background-color: #dbdddf;
+  padding: 2px 0;
+}
+.sidebar__email {
+  background-image: linear-gradient(to right bottom, #00F260,#0575E6);
+  border-radius: 30px;
+  color: #fff;
+  margin: 15px 25px 0px;
+  cursor: pointer;
+}
