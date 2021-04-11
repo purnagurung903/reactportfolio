@@ -1,5 +1,5 @@
 import React from "react";
-import facebook from "../assets/icons/facebook.svg"
+import linkedin from "../assets/icons/linkedin.svg"
 import instagram from "../assets/icons/instagram.svg"
 import github from "../assets/icons/github.svg"
 import pin from "../assets/icons/pin.svg"
@@ -17,7 +17,7 @@ const Sidebar = () => {
         <img src={image} alt="avatar" className="sidebar__avatar"/>
         <div className="sidebar__name">Gurung <span>Purna</span>
         </div>
-        <div className="sidebar__item sidebar__title">Fullstack Developer
+        <div className="sidebar__item sidebar__title">Fullstack Web Developer
         </div>
         <a href={resume} download="Resume.pdf">
           <div className="sidebar__item sidebar__resume">
@@ -26,7 +26,7 @@ const Sidebar = () => {
           </div>
         </a>
         <figure className="sidebar__social-icons my-2">
-          <a href=" "><img src={facebook} alt="facebook" className="sidebar__icon mr-3"/></a>
+          <a href=" "><img src={linkedin} alt="linkedin" className="sidebar__icon mr-3"/></a>
           <a href=" "><img src={instagram} alt="instagram" className="sidebar__icon"/></a>
 
         </figure>
