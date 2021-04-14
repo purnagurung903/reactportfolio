@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/reactportfolio/static/css/main.a9aa7e5c.chunk.css",
-    "main.js": "/reactportfolio/static/js/main.50518b14.chunk.js",
-    "main.js.map": "/reactportfolio/static/js/main.50518b14.chunk.js.map",
+    "main.css": "/reactportfolio/static/css/main.528cd4f8.chunk.css",
+    "main.js": "/reactportfolio/static/js/main.52fa1d2a.chunk.js",
+    "main.js.map": "/reactportfolio/static/js/main.52fa1d2a.chunk.js.map",
     "runtime-main.js": "/reactportfolio/static/js/runtime-main.5f9eb423.js",
     "runtime-main.js.map": "/reactportfolio/static/js/runtime-main.5f9eb423.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/reactportfolio/static/css/2.4c97ca4f.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.a9b4d77c.chunk.js.map": "/reactportfolio/static/js/2.a9b4d77c.chunk.js.map",
     "index.html": "/reactportfolio/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/reactportfolio/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.a9aa7e5c.chunk.css.map": "/reactportfolio/static/css/main.a9aa7e5c.chunk.css.map",
+    "static/css/main.528cd4f8.chunk.css.map": "/reactportfolio/static/css/main.528cd4f8.chunk.css.map",
     "static/js/2.a9b4d77c.chunk.js.LICENSE.txt": "/reactportfolio/static/js/2.a9b4d77c.chunk.js.LICENSE.txt",
     "static/media/Myphoto.8b0fcc41.png": "/reactportfolio/static/media/Myphoto.8b0fcc41.png",
     "static/media/Resume.d1e259db.pdf": "/reactportfolio/static/media/Resume.d1e259db.pdf",
@@ -20,6 +20,7 @@
     "static/media/instagram.c59b798d.svg": "/reactportfolio/static/media/instagram.c59b798d.svg",
     "static/media/linkedin.7defd339.svg": "/reactportfolio/static/media/linkedin.7defd339.svg",
     "static/media/pin.ecfd58de.svg": "/reactportfolio/static/media/pin.ecfd58de.svg",
+    "static/media/react.2f7c9efd.svg": "/reactportfolio/static/media/react.2f7c9efd.svg",
     "static/media/repair.2c4f4278.svg": "/reactportfolio/static/media/repair.2c4f4278.svg",
     "static/media/tie.9889c907.svg": "/reactportfolio/static/media/tie.9889c907.svg"
   },
@@ -27,7 +28,7 @@
     "static/js/runtime-main.5f9eb423.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.a9b4d77c.chunk.js",
-    "static/css/main.a9aa7e5c.chunk.css",
-    "static/js/main.50518b14.chunk.js"
+    "static/css/main.528cd4f8.chunk.css",
+    "static/js/main.52fa1d2a.chunk.js"
   ]
 }
