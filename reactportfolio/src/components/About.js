@@ -29,7 +29,7 @@ const About = () => {
   return (
     <div className="about">
       <h6 className="about__intro">
-        I describe myself as a quick learner and loves problem solving who's really persistent.
+        I describe myself as someone who's persistent, a quick learner and loves problem solving.
       </h6>
       <div className="container about__container">
         <h6 className="about__heading">
