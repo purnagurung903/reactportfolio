@@ -253,3 +253,12 @@ a:hover {
   font-size: 1rem;
   cursor: pointer;
 }
+/* footer */
+
+.center{
+  text-align: center;
+  padding-right: 50px;
+}
+.lighterBG{
+  margin-top: 50px;
+}

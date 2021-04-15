@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import data_projects from "./data/projects_data"
+import Footer from "./footer/Footer";
 import ProjectCard from "./projectCard";
 const Projects = () => {
   const [projects, setProjects] = useState(data_projects)
@@ -22,6 +23,7 @@ const Projects = () => {
               <ProjectCard key={project.name} project={project} />)
           }
       </div>
+      <Footer />
     </div>
   )
 }

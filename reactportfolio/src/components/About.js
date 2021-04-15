@@ -2,6 +2,7 @@ import React from "react";
 import algo from "..//assets/icons/algo.svg"
 import computer from "..//assets/icons/computer.svg"
 import repair from "..//assets/icons/repair.svg"
+import Footer from "./footer/Footer";
 
 
 import Skillcard from "./Skillcard";
@@ -40,10 +41,12 @@ const About = () => {
             skills.map(skill =>
               <Skillcard skill={skill} />
             )
-          }
-
+          },
+          
         </div>
+        
       </div>
+      <Footer />
     </div>
   )
 }
