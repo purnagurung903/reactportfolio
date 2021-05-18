@@ -23,7 +23,7 @@ const Projects = () => {
               <ProjectCard key={project.name} project={project} />)
           }
       </div>
-      <Footer />
+      
     </div>
   )
 }
