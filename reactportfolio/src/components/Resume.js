@@ -1,7 +1,7 @@
 import React from "react";
 import react from "../assets/icons/react.svg"
 import Bar from "./Bar";
-import Footer from "./footer/Footer";
+
 
 const languages = [
   {
