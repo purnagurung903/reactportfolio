@@ -7,7 +7,7 @@ import weatherapp from "../../assets/projects_images/weatherapp.png"
 
 const data_projects = [
   {
-    name:"Quarantinis",
+    name:"Quarantinie",
     image:Quarentine,
     deployed_url:"https://melissakinsey.github.io/Quarantinis/",
     github_url:"https://github.com/melissakinsey/Quarantinis",
